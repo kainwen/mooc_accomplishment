@@ -16,3 +16,4 @@
 * November 23, 2015 [Paradigms of Computer Programming -  Fundamentals](https://courses.edx.org/certificates/f9000e2e251e4c918bb3fc2553024b46)
 * January 19, 2016 [Paradigms of Computer Programming - Abstraction and Concurrency](https://courses.edx.org/certificates/8d2075ee7f4348c5913a95874e93418a)
 * January 6, 2016 [Introduction to Functional Programming](https://courses.edx.org/certificates/ef0360f8acf6409fb2375ccbe4d03ba3)
+* May 27, 2016 [Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/certificates/55fb680d6f21415382145b82af002cbd)
